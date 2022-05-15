@@ -1,6 +1,7 @@
 #  我的生平
 `alert('hello')`
 ```javascript
+prompt('请输入')
 console.log('Hadder_Better_Faster_Stronger_') 
 ```
 我来自河北,去年毕业,机械专业而来,
